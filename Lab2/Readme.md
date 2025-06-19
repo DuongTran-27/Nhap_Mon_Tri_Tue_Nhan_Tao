@@ -31,7 +31,6 @@ Thông qua các ví dụ trực quan và phần thực hành mã Python, ngườ
 - Tìm được đường đi ngắn nhất (tính theo số bước) trên đồ thị không trọng số
 
 **Hàm:**
-```python
 bfs(graph, start, goal)
 bfs_weighted(graph, start, goal)
 Thuật toán DFS – Depth-First Search
